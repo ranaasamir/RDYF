@@ -26,10 +26,11 @@ Yousef Hamdy 37-5797
 *About* 
 
 
-Farah Ahmed:
+Farah Ahmed: My hobbies are photography and reading.
 Rana Samir: I'm an Aquarius.
 Doha Yasser:
 Yousef Hamdy:
 
+The purpose of the repository is to gather information about the authors.
 
-![BI 18](D:\Farah Ahmed\GUC\Semester 6\Software Engineering\Sprints\Sprint 0\BI 18.png)
+

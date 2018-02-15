@@ -40,7 +40,7 @@ Rana Samir: My zodiac sign is Aquarius.
 
 Doha Yasser: My favorite colors are Red and Black.
 
-Yousef Hamdy: A music addict who enjoys exploring.
+Yousef Hamdy: A Music addict who enjoys exploring.
 
 
 

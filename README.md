@@ -5,7 +5,7 @@
 
 
 
-*Getting Started:*  **We start here**
+*Getting Started:* 
 
 
 In this repository we are starting to learn about collabortive working, 
@@ -15,7 +15,7 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 
-**
+*Authors*
 
 
 

@@ -1,4 +1,3 @@
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 ![Screenshot](Screenshot.jpg)
 
@@ -16,7 +15,7 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 
-*Authors:*
+<p style='color:red'>Authors</p>
 
 
 

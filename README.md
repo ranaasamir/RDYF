@@ -31,6 +31,6 @@ Rana Samir: My zodiac sign is Aquarius.
 Doha Yasser:
 Yousef Hamdy:
 
-The purpose of the repository is to gather information about the authors..
+The purpose of the repository is to gather information about the authors...
 
 

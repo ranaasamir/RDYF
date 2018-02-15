@@ -27,8 +27,6 @@ Rana Samir 37-1083
 
 Farah Ahmed 37-3658
 
-color.Blue("Prints %s in blue.", "text")
-
 
 
 

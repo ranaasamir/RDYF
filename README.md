@@ -15,7 +15,7 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 
-*Authors*
+*Authors* aka contributors 
 
 
 

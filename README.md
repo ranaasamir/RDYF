@@ -29,7 +29,7 @@ Yousef Hamdy 37-5797
 Farah Ahmed: My hobbies are photography and reading.
 Rana Samir: My zodiac sign is Aquarius.
 Doha Yasser:
-Yousef Hamdy:
+Yousef Hamdy: Hey there, im yousef!
 
 The purpose of the repository is to gather information about the authors.
 

@@ -5,7 +5,7 @@
 
 
 
-*Getting Started:*
+**
 
 
 In this repository we are starting to learn about collabortive working, 

@@ -15,9 +15,7 @@ resolve them. Some merging conflicts were made and resolved.
 *Authors:*
 
 
-Farah Ahmed 37-3658	
-Rana Samir 37-1083	
-Dohaa Yasser 37-1788	
+
 Yousef Hamdy 37-5797
 
 
@@ -31,6 +29,6 @@ Rana Samir: My zodiac sign is Aquarius.
 Doha Yasser:
 Yousef Hamdy:
 
-The purpose of the repository is to gather information about the authors.
+The purpose of the repository is to gather information about the authors....
 
 

@@ -15,7 +15,7 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 
-<p style='color:red'>Authors</p>
+*Authors*
 
 
 
@@ -26,6 +26,9 @@ Doha Yasser 37-1788
 Rana Samir 37-1083
 
 Farah Ahmed 37-3658
+
+color.Blue("Prints %s in blue.", "text")
+
 
 
 

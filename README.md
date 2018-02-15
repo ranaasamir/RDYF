@@ -17,7 +17,7 @@ resolve them. Some merging conflicts were made and resolved.
 
 Farah Ahmed 37-3658	
 Rana Samir 37-1083	
-Doha Yasser 37-1788	
+Dohaa Yasser 37-1788	
 Yousef Hamdy 37-5797
 
 

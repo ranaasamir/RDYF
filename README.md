@@ -19,9 +19,13 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 Yousef Hamdy 37-5797
+
 Doha Yasser 37-1788
+
 Rana Samir 37-1083
+
 Farah Ahmed 37-3658
+
 
 
 
@@ -32,7 +36,7 @@ Farah Ahmed: My hobbies are photography and reading..
 
 Rana Samir: My zodiac sign is Aquarius.
 
-Doha Yasser: I'm a GUC student.
+Doha Yasser: My favorite colors are Red and Black.
 
 Yousef Hamdy:
 

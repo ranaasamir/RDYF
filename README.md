@@ -15,9 +15,7 @@ resolve them. Some merging conflicts were made and resolved.
 *Authors:*
 
 
-Farah Ahmed 37-3658	
-Ranaa Samir 37-1083	
-Doha Yasser 37-1788	
+
 Yousef Hamdy 37-5797
 
 

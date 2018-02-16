@@ -1,12 +1,18 @@
+# *Sprint* *Zero*
+
 
 ![Screenshot](Screenshot.jpg)
 
-*Sprint* *Zero*
 
 
 
 
-*Getting Started:*  
+
+
+### *Getting Started*
+----------------------
+
+
 
 
 In this repository we are starting to learn about collabortive working, 
@@ -16,7 +22,11 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 
-*Authors*
+
+
+=======
+### *Authors*
+-------------
 
 
 
@@ -32,7 +42,8 @@ Farah Ahmed 37-3658
 
 
 
-*About* 
+### *About*
+------------
 
 
 Farah Ahmed: My hobbies are photography and reading.

@@ -1,11 +1,11 @@
 
 ![Screenshot](Screenshot.jpg)
 
-#### *Sprint* *Zero*
+# *Sprint* *Zero*
 
 
 
-## Alt-*Getting Started:*
+### *Getting Started:*
 ----------------------
 
 
@@ -17,7 +17,7 @@ resolve them. Some merging conflicts were made and resolved.
 
 
 
-## Alt-*Authors*
+### *Authors*
 -------------
 
 
@@ -34,8 +34,8 @@ Farah Ahmed 37-3658
 
 
 
-## Alt-*About*
---------
+### *About*
+------------
 
 
 Farah Ahmed: My hobbies are photography and reading.

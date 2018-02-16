@@ -11,10 +11,10 @@
 
 
 
-In this repository we are starting to learn about collabortive working, 
-Firstly, we created this particular README.md.
+In this repository, we are starting to learn about collabortive working and get more familiar with github.
+At the beginning, we created this README.md file and fill it with information about ourselves.
 Then each team member started to assign issues to each other and 
-resolve them. Some merging conflicts were made and resolved.
+do them. Some merging conflicts were made and resolved by all team members.
 
 
 
